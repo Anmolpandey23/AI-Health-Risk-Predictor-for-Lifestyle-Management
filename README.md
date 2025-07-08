@@ -17,11 +17,11 @@ This is a machine learning-based system that predicts the risk of developing chr
 
 ## 📂 Datasets Used
 
-### `diabetes.csv`["https://github.com/Anmolpandey23/AI-Health-Risk-Predictor-for-Lifestyle-Management/blob/498aaf421f48970726ae844294395e7bb09c2664/diabetes.csv"]
-
+[Diabetes Disease Link](https://github.com/Anmolpandey23/AI-Health-Risk-Predictor-for-Lifestyle-Management/blob/498aaf421f48970726ae844294395e7bb09c2664/diabetes.csv)
+ 
 - Features: `Pregnancies`, `Glucose`, `BloodPressure`, `SkinThickness`, `Insulin`, `BMI`, `DiabetesPedigreeFunction`, `Age`, `Outcome`
 
-### `heart.csv`["https://github.com/Anmolpandey23/AI-Health-Risk-Predictor-for-Lifestyle-Management/blob/498aaf421f48970726ae844294395e7bb09c2664/heart.csv"]
+[Heart Disease Link](https://github.com/Anmolpandey23/AI-Health-Risk-Predictor-for-Lifestyle-Management/blob/498aaf421f48970726ae844294395e7bb09c2664/heart.csv)
 
 - Features: `age`, `sex`, `cp`, `trestbps`, `chol`, `fbs`, `restecg`, `thalach`, `exang`, `oldpeak`, `slope`, `ca`, `thal`, `target`
 
