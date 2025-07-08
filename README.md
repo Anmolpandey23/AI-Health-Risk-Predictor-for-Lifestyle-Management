@@ -100,14 +100,6 @@ Random Forest was used for risk simulation due to interpretability.
 
 ---
 
-##  How to Run
-
- Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
----
 
 ## Conclusion
 
