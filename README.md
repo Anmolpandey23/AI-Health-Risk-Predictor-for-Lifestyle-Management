@@ -1,6 +1,6 @@
-# 🧡 Health Risk Prediction System
+# Health Risk Prediction System
 
-## ✅ About the Project
+## About the Project
 
 This is a machine learning-based system that predicts the risk of developing chronic conditions such as diabetes and heart disease. It combines two healthcare datasets, simulates future risk changes based on lifestyle improvements, clusters individuals into risk groups, and gives personalized health recommendations.
 
@@ -40,7 +40,7 @@ This is a machine learning-based system that predicts the risk of developing chr
 
 ---
 
-## 🧰 Preprocessing
+## Preprocessing
 
 - **Imputation:** Filled missing values using mean strategy
 - **Scaling:** Standardized all features using `StandardScaler`
@@ -48,7 +48,7 @@ This is a machine learning-based system that predicts the risk of developing chr
 
 ---
 
-## 🔬 Machine Learning Models
+## Machine Learning Models
 
 ### Logistic Regression
 
@@ -75,7 +75,7 @@ Random Forest was used for risk simulation due to interpretability.
 
 ---
 
-## 📊 Clustering and Recommendations
+## Clustering and Recommendations
 
 - Used `KMeans(n_clusters=3)` on lifestyle-related features
 
@@ -100,7 +100,7 @@ Random Forest was used for risk simulation due to interpretability.
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
  Install dependencies:
 
@@ -109,7 +109,7 @@ pip install -r requirements.txt
 ```
 ---
 
-## 📊 Conclusion
+## Conclusion
 
 - Logistic Regression had slightly higher ROC AUC
 - Random Forest enabled interactive simulations
@@ -120,5 +120,5 @@ pip install -r requirements.txt
 
 ## 📘 License
 
-MIT License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
