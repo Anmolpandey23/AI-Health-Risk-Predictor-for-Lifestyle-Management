@@ -120,5 +120,5 @@ pip install -r requirements.txt
 
 ## 📘 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](https://github.com/Anmolpandey23/AI-Health-Risk-Predictor-for-Lifestyle-Management/blob/a420c5eb0d3191d523df7a79e4d2152db62c70ab/LICENSE).
 
