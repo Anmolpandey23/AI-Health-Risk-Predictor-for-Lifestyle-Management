@@ -1,4 +1,4 @@
-# Health Risk Prediction System
+# AI-Health-Risk-Predictor-for-Lifestyle-Management
 
 ## About the Project
 
