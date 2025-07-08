@@ -17,11 +17,11 @@ This is a machine learning-based system that predicts the risk of developing chr
 
 ## 📂 Datasets Used
 
-### `diabetes.csv`
+### `diabetes.csv`["https://github.com/Anmolpandey23/AI-Health-Risk-Predictor-for-Lifestyle-Management/blob/498aaf421f48970726ae844294395e7bb09c2664/diabetes.csv"]
 
 - Features: `Pregnancies`, `Glucose`, `BloodPressure`, `SkinThickness`, `Insulin`, `BMI`, `DiabetesPedigreeFunction`, `Age`, `Outcome`
 
-### `heart.csv`
+### `heart.csv`["https://github.com/Anmolpandey23/AI-Health-Risk-Predictor-for-Lifestyle-Management/blob/498aaf421f48970726ae844294395e7bb09c2664/heart.csv"]
 
 - Features: `age`, `sex`, `cp`, `trestbps`, `chol`, `fbs`, `restecg`, `thalach`, `exang`, `oldpeak`, `slope`, `ca`, `thal`, `target`
 
@@ -66,9 +66,14 @@ Random Forest was used for risk simulation due to interpretability.
 ## Visuals
 
 Random Forest Vs Logistic Regression
+<img width="1205" alt="Random Forest Vs Logistic Regression
+" src="https://github.com/Anmolpandey23/AI-Health-Risk-Predictor-for-Lifestyle-Management/blob/498aaf421f48970726ae844294395e7bb09c2664/Logistic%20vs%20Random%20Forest.png" />
 
 
 Confusion Matrix of Random Forest
+<img width="1205" alt="Random Forest – Actual vs Predicted
+" src="https://github.com/Anmolpandey23/AI-Health-Risk-Predictor-for-Lifestyle-Management/blob/498aaf421f48970726ae844294395e7bb09c2664/Confusion%20Matrix.png" />
+
 
 ---
 ## ⏳ Risk Simulation Function
