@@ -63,7 +63,14 @@ This is a machine learning-based system that predicts the risk of developing chr
 Random Forest was used for risk simulation due to interpretability.
 
 ---
+## Visuals
 
+Random Forest Vs Logistic Regression
+
+
+Confusion Matrix of Random Forest
+
+---
 ## ⏳ Risk Simulation Function
 
 **simulate\_risk\_over\_time()**:
