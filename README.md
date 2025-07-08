@@ -89,22 +89,6 @@ Random Forest was used for risk simulation due to interpretability.
 
 ---
 
-## ⚖️ Evaluation Metrics
-
-- Classification Report
-- ROC AUC Score
-- Confusion Matrix + Heatmap
-
-```python
-from sklearn.metrics import confusion_matrix
-import seaborn as sns
-
-cm = confusion_matrix(y_test, y_pred)
-sns.heatmap(cm, annot=True, fmt='d', cmap='Blues')
-```
-
----
-
 ## ⚙️ Tech Stack
 
 | Component     | Tool                |
@@ -118,20 +102,11 @@ sns.heatmap(cm, annot=True, fmt='d', cmap='Blues')
 
 ## 🚀 How to Run
 
-1. Install dependencies:
+ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
-
-2. Run main script:
-
-```bash
-python health_risk_predictor.py
-```
-
-3. See printed output, charts, and recommendations
-
 ---
 
 ## 📊 Conclusion
